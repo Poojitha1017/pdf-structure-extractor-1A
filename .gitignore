@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pdf
+*.json
+output/*
+input/*
+*.log
+*.DS_Store
